@@ -1,0 +1,132 @@
+*{
+    padding:0px;
+    margin:0px;
+ }
+ body{
+ background-color:rgb(111, 0, 246);
+ }
+ #mylogo{
+     margin-left:30px;
+     margin-top:30px;
+ }
+ .top
+ {
+ background-image:url("image.avif");
+ background-repeat: no-repeat;
+ background-size: 100% 90px;
+     background-color:grey;
+     height:90px;
+     width:100%;   
+     margin:0px;
+ }
+ .box{
+     color:white;
+     height:60px;
+     width:80px;
+     background-color:#36454F;
+     font-family:sanserif;
+     font-size:20px;
+     margin-left:25px;
+     border-radius:20px;
+     padding:5px;
+ }
+ span:active
+ {
+     background-color:green;
+ }
+ .logo
+ {
+     color:#36454F;
+     font-family:Abril Fatface;
+     font-size:30px;
+     font-weight:bold;
+ }
+ 
+ .mid2
+ {
+ background-image:url("image3.avif");
+ background-repeat: no-repeat;
+ background-size: 100% 350px;
+    background-color:rgb(8, 143, 143);
+     height:350px;
+     width:100%;
+     margin:0px;
+ }
+ .bottom
+ {
+     height:200px;
+     width:100%;
+     margin:0px;
+     text-align:center;
+ }
+ .sic{
+     font-size:30px;
+     font-weight:bold;
+     margin-left:30px;
+ }
+ a:link {
+   color: green;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:visited {
+   color: rgb(255, 255, 255);
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:hover {
+   color: red;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ 
+ a:active {
+   color:blue;
+   background-color: transparent;
+   text-decoration: none;
+ }
+ h3{
+     color:white;
+     margin:30px;
+ }
+ .hb {
+     box-shadow: 15px 15px 15px grey;
+     margin-left:50px;
+ }
+ #hbin{
+ color:rgb(239, 0, 0);
+ margin:20px;
+ margin-left:50px;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+ }
+ #hbn{
+     color:darkslategray;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 30px;
+     margin-left:115px;
+ }
+ #rp{
+     color:rgb(130, 209, 208);
+     margin-left:50px;
+ }
+ #hl{
+     color:rgb(251, 251, 251);
+     margin:10px;
+ }
+ .mid1
+ { 
+ background-image:url("image1.jpg");
+ background-repeat: no-repeat;
+ background-size: 100% 400px;
+ background-color:rgb(110, 1, 234);
+     height:350px;
+     width:100%;
+     padding:20px;
+ margin:0px;
+ }
+ #heading{
+ color:rgb(219, 3, 46);
+ margin-left:50px;
+ }
